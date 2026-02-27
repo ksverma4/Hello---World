@@ -44,6 +44,7 @@ This repository currently serves as a profile and documentation hub. To view or 
 Hello_World/
 └──
     │── README.md
+    │── passportphotowiz-cropped-img.jpg
 ```
 
 ## Additional Information
